@@ -1,2 +1,2 @@
-### Extracting Highways from OpenStreetMap OSH file
+### Generating highways statistics from OpenStreetMap OSH file
 No documentation yet.
