@@ -1,2 +1,2 @@
 ### Generating highways statistics from OpenStreetMap OSH file
-No documentation yet.
+No documentation in English yet.
